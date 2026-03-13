@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\pages\\contracts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\pages\\contracts\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4993F4F-57D0-4D11-83E5-1CF947AD57D4}|RealEstateManagement _TranThaiThinh.Repositories\\RealEstateManagement _TranThaiThinh.Repositories.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.repositories\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4993F4F-57D0-4D11-83E5-1CF947AD57D4}|RealEstateManagement _TranThaiThinh.Repositories\\RealEstateManagement _TranThaiThinh.Repositories.csproj|solutionrelative:realestatemanagement _tranthaithinh.repositories\\models\\contract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94592650-3210-4E41-AD4D-346EE2DA7178}|RealEstateManagement _TranThaiThinh.Razor\\RealEstateManagement _TranThaiThinh.Razor.csproj|solutionrelative:realestatemanagement _tranthaithinh.razor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2830F31-85DC-4DE6-8D9E-BA00AC3CBB3F}|RealEstateManagement _TranThaiThinh.Services\\RealEstateManagement _TranThaiThinh.Services.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.services\\systemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2830F31-85DC-4DE6-8D9E-BA00AC3CBB3F}|RealEstateManagement _TranThaiThinh.Services\\RealEstateManagement _TranThaiThinh.Services.csproj|solutionrelative:realestatemanagement _tranthaithinh.services\\systemuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4993F4F-57D0-4D11-83E5-1CF947AD57D4}|RealEstateManagement _TranThaiThinh.Repositories\\RealEstateManagement _TranThaiThinh.Repositories.csproj|h:\\pe_test\\pe_prn222_fa25_tranthaithinh\\realestatemanagement _tranthaithinh.repositories\\systemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4993F4F-57D0-4D11-83E5-1CF947AD57D4}|RealEstateManagement _TranThaiThinh.Repositories\\RealEstateManagement _TranThaiThinh.Repositories.csproj|solutionrelative:realestatemanagement _tranthaithinh.repositories\\systemuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SystemUserService.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Services\\SystemUserService.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Services\\SystemUserService.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Services\\SystemUserService.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Services\\SystemUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:04:41.659Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:11:08.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Index.cshtml",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T07:11:08.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:11:07.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T07:11:07.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:11:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T07:11:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:11:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T07:11:07.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:11:07.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Pages\\Contracts\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-14T07:11:06.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contract.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Repositories\\Models\\Contract.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Repositories\\Models\\Contract.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Repositories\\Models\\Contract.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Repositories\\Models\\Contract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T07:08:07.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Program.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Razor\\Program.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Razor\\Program.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Razor\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:16:43.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SystemUserRepository.cs",
+              "DocumentMoniker": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Repositories\\SystemUserRepository.cs",
+              "RelativeDocumentMoniker": "RealEstateManagement _TranThaiThinh.Repositories\\SystemUserRepository.cs",
+              "ToolTip": "H:\\PE_Test\\PE_PRN222_FA25_TranThaiThinh\\RealEstateManagement _TranThaiThinh.Repositories\\SystemUserRepository.cs",
+              "RelativeToolTip": "RealEstateManagement _TranThaiThinh.Repositories\\SystemUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:03:54.732Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

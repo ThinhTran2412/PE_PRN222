@@ -1,0 +1,15 @@
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.deps.json
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.pdb
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.pdb
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.csproj.AssemblyReference.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.GeneratedMSBuildEditorConfig.editorconfig
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.AssemblyInfoInputs.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.AssemblyInfo.cs
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.csproj.CoreCompileInputs.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEsta.EB7257D7.Up2Date
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\refint\RealEstateManagement _TranThaiThinh.Services.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Services.pdb
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Services\obj\Debug\net8.0\ref\RealEstateManagement _TranThaiThinh.Services.dll

@@ -1,0 +1,77 @@
+﻿@page
+@model RealEstateManagement__TranThaiThinh.Razor.Pages.Contracts.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].ContractTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].PropertyType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].SigningDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].ExpirationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].Value)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract[0].Broker)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Contract) {
+        <tr class="js-pagination-item">
+            <td>
+                @Html.DisplayFor(modelItem => item.ContractTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PropertyType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SigningDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpirationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Value)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Broker.Address)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.ContractId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.ContractId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.ContractId">Delete</a>
+            </td>
+        </tr>
+
+}
+    </tbody>
+</table>
+
+<div class="js-pagination" style="display: none; margin-top: 20px;"></div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/pagination.js"></script>
+
+<script>
+    generatePagination('.js-pagination', '.js-pagination-item', 3, 'Prev', 'Next');
+</script>
+

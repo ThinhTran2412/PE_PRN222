@@ -1,0 +1,14 @@
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.csproj.AssemblyReference.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.AssemblyInfoInputs.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.AssemblyInfo.cs
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.csproj.CoreCompileInputs.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.deps.json
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.runtimeconfig.json
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\bin\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.pdb
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\refint\RealEstateManagement _TranThaiThinh.Repositories.dll
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.pdb
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\RealEstateManagement _TranThaiThinh.Repositories.genruntimeconfig.cache
+H:\PE_Test\PE_PRN222_FA25_TranThaiThinh\RealEstateManagement _TranThaiThinh.Repositories\obj\Debug\net8.0\ref\RealEstateManagement _TranThaiThinh.Repositories.dll
